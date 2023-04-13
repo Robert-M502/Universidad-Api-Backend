@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3zZBgzZULGKNyMRWnKp6bsNfStA55bAelm58Oej8SIk=",
+  "Source": "UniversidadApiBackend",
+  "BasePath": "_content/UniversidadApiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
